@@ -1,0 +1,3 @@
+/home/flycapture/Desktop/XiaChuan/SummerXC-66/CImageProcessing/cmake-build-debug/CMakeFiles/CImageProcessing.dir
+/home/flycapture/Desktop/XiaChuan/SummerXC-66/CImageProcessing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/flycapture/Desktop/XiaChuan/SummerXC-66/CImageProcessing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
