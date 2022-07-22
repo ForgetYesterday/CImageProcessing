@@ -1,10 +1,10 @@
 hello, git helper
 # name
-- SummerXC-66
-- Axiachuan123
-- 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
-- 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
-- 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
+SummerXC-66
+
+Axiachuan123
+
+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
  
 # git ≈‰÷√
 - sudo apt get install git
