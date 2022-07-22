@@ -1,12 +1,16 @@
 hello, c image processing
+# name
+SummerXC-66
 
-Code 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
+# psd
+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
 
 # git √¸¡Ó:
 git clone https://github.com/SummerXC-66/CImageProcessing.git
 
 # git init
-git add README.md
+git add *
+git status
 git commit -m "first commit"
 git branch -M "main"
 git remote add origin https://github.com/SummerXC-66/Enhance.git
