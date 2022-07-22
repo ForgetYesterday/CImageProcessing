@@ -6,8 +6,8 @@ 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
 
 # git √¸¡Ó:
 git clone https://github.com/SummerXC-66/CImageProcessing.git
-git config --global user.email "you@example.com"
-git config --global user.name "name"
+git config --global user.email "1059725574@qq.com"
+git config --global user.name "SummerXC-66"
 
 git init
 git add *
