@@ -6,6 +6,7 @@ Axiachuan123
 
 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
 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
+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
  
 # git ≈‰÷√
 - sudo apt get install git
